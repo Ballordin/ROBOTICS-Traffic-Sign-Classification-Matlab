@@ -2,22 +2,22 @@
 
 Este projeto foi desenvolvido no âmbito da unidade curricular de **Robótica** da licenciatura em Engenharia Eletrotécnica e de Computadores (IPCA). O sistema utiliza visão computacional para detetar e classificar sinais de trânsito através de uma webcam em tempo real.
 
-## 📺 Demonstração em Vídeo
+## Demonstração em Vídeo
 Clique no botão abaixo para visualizar o sistema de classificação de sinais em funcionamento:
 
 https://www.youtube.com/watch?v=p-COLnelIgo
 
-## 🎯 Objetivos
+## Objetivos
 - Implementar algoritmos de processamento digital de imagem em **MATLAB**.
 - Desenvolver uma Interface Gráfica (GUI) interativa para controlo e calibração.
 - Validar o desempenho do sistema através de métricas de precisão e recall.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - **Linguagem:** MATLAB
 - **Toolboxes:** Image Acquisition Toolbox, Image Processing Toolbox.
 - **Hardware:** Webcam integrada/USB.
 
-## ⚙️ Metodologia Técnica
+## Metodologia Técnica
 O pipeline de processamento de imagem segue estas etapas:
 1. **Aquisição:** Captura de frames em tempo real.
 2. **Pré-processamento:** Conversão do espaço de cor RGB para **HSV** (para maior robustez à iluminação).
@@ -26,7 +26,7 @@ O pipeline de processamento de imagem segue estas etapas:
 5. **Extração de Características:** Análise de propriedades geométricas (circularidade, centroides e bounding boxes).
 6. **Classificação:** Lógica baseada em regras para distinguir sinais como STOP, Sentido Obrigatório, etc.
 
-## 📊 Resultados e GUI
+## Resultados e GUI
 A aplicação (App Designer) permite ao utilizador:
 - Ajustar os limites de cor (H, S, V) em tempo real através de sliders.
 - Visualizar a máscara binária e o resultado da classificação sobreposto ao vídeo.
