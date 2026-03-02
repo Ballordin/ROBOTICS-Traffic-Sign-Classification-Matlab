@@ -5,7 +5,7 @@ Este projeto foi desenvolvido no âmbito da unidade curricular de **Robótica** 
 ## Demonstração em Vídeo
 Clique no botão abaixo para visualizar o sistema de classificação de sinais em funcionamento:
 
-https://www.youtube.com/watch?v=p-COLnelIgo
+[![Assistir ao Vídeo](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=p-COLnelIgo)
 
 ## Objetivos
 - Implementar algoritmos de processamento digital de imagem em **MATLAB**.
