@@ -24,5 +24,13 @@ The project includes a validation module that calculates:
 ## 📺 Project Demo
 [Watch the Real-Time Classification Video on YouTube](https://www.youtube.com/watch?v=p-COLnelIgo)
 
+
+## 📂 Repository Structure
+* **[/src](./src):** Contains the `.mlapp` source code and `History.mat` for metric logging.
+* **[/docs](./docs):** Full technical report detailing the vision algorithms and test results.
+* **[/media](./media):** Links to video demonstrations and system screenshots.
+
+
+
 ## 👥 Author
 * Tiago Oliveira
