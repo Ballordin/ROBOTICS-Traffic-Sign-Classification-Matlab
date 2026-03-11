@@ -3,7 +3,7 @@
 ## 📽️ Real-Time Traffic Sign Classification
 This video demonstrates the application detecting and classifying signs in real-time under different conditions.
 
-[**Watch the Demo on YouTube**]()
+[**Watch the Demo on YouTube**](https://www.youtube.com/watch?v=p-COLnelIgo)
 
 ### What to Look For:
 * **Dynamic Masking:** Notice how the application displays the filtered binary mask in real-time.
